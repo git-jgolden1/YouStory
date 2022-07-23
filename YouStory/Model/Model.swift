@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct Card {
+	var message: String
+	var buttonMessages: [String]
+}
