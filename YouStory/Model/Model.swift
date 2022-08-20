@@ -7,6 +7,10 @@
 
 import Foundation
 
+struct AppState {
+//	var content
+}
+
 struct Card {
 	var message: String
 	var buttonMessages: [String]
